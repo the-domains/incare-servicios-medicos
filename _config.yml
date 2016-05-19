@@ -1,0 +1,28 @@
+name: Incare Servicios Médicos
+favicon: null
+layout_spectrum: 0.6627825256437063
+typography_spectrum: 0.05865593603812158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7281253396067768
+  lightness: 0.9998388972599059
+  saturation: 0.17403347208164632
+  rhythmicContrast: 0.9726751339621842
+purpose: []
