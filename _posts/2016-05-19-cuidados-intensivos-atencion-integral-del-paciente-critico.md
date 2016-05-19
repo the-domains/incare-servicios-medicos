@@ -1,18 +1,19 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: es
 keywords: []
 description: ''
-datePublished: '2016-05-19T12:09:52.880Z'
-dateModified: '2016-05-19T12:03:26.855Z'
+datePublished: '2016-05-19T12:16:36.743Z'
+dateModified: '2016-05-19T12:13:20.724Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: 'Cuidados Intensivos: Atención Integral del Paciente Crítico'
+sourcePath: _posts/2016-05-19-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 authors: []
 publisher:
   name: Medicapanamericana
@@ -20,7 +21,6 @@ publisher:
   url: 'http://www.medicapanamericana.com'
   favicon: 'http://www.medicapanamericana.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-19-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 url: cuidados-intensivos-atencion-integral-del-paciente-critico/index.html
 _context: 'http://schema.org'
 _type: MediaObject
