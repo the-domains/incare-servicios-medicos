@@ -2,6 +2,7 @@ name: Incare Servicios Médicos
 favicon: null
 layout_spectrum: 0.36864
 typography_spectrum: 0.72496
+title: INCARE
 cta:
   domain: null
   bucket: null
