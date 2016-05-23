@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T11:50:30.790Z'
-dateModified: '2016-05-23T11:50:18.288Z'
+datePublished: '2016-05-23T11:56:47.636Z'
+dateModified: '2016-05-23T11:56:12.301Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-23-firma-convenio-colaboracion-incare-y-alumni-uma.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-23-firma-convenio-colaboracion-incare-y-alumni-uma.md
 url: firma-convenio-colaboracion-incare-y-alumni-uma/index.html
 _type: Article
 
@@ -28,7 +28,6 @@ _type: Article
 **__**
 
 **_Facilitará la búsqueda de empleo en Irlanda a los titulados en Medicina y Enfermería _**
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f127216-f699-4c45-adf2-38a0c57708fb.jpg)
 
 El presidente de la Asociación de Antiguos Alumnos de la Universidad de Málaga (Alumni UMA), Carlos de la Heras, y el director ejecutivo de la empresa Incare Benalmádena, Pablo de Rojas, han suscrito hoy un convenio de colaboración, con el objetivo de promover líneas generales de cooperación entre ambas entidades. En concreto, el acuerdo facilitará la búsqueda de empleo
@@ -41,9 +40,5 @@ expectativas y al currículum del solicitante. Además, pueden facilitar la tram
 
 La Asociación de Antiguos Alumnos tiene entre sus objetivos contribuir al desarrollo económico y social de su entorno, así como el fomento del empleo y el desarrollo de recursos humanos cualificados, por lo que este acuerdo pone en práctica uno de sus principales fines.
 
-Por su parte, Incare es una
-empresa que tiene como objetivo ofrecer un servicio de calidad en materia de
-búsqueda de empleo en el extranjero en la rama sanitaria asesorando a los
-interesados en todo el proceso y consiguiendo ofertas de trabajo con excelentes
-condiciones laborales.
+Por su parte, Incare es una empresa que tiene como objetivo ofrecer un servicio de calidad en materia de búsqueda de empleo en el extranjero en la rama sanitaria asesorando a los interesados en todo el proceso y consiguiendo ofertas de trabajo con excelentes condiciones laborales.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/290b9a8d-ce0d-4f4c-b34d-460033a00492.jpg)
