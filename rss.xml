@@ -4,8 +4,15 @@
         <description><![CDATA[INCARE Servicios Médicos]]></description>
         <link>https://thegrid.ai/incare-servicios-medicos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 08:23:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 08:53:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/incare-servicios-medicos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cuidados Intensivos: Atención Integral del Paciente Crítico]]></title>
+            <description><![CDATA[<article><h1>Cuidados Intensivos: Atención Integral del Paciente Crítico</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41d51ab0a03d7b5806e71b9524b44984a7730ab7.png"></article>]]></description>
+            <link>https://thegrid.ai/incare-servicios-medicos/cuidados-intensivos-atencion-integral-del-paciente-critico/index.html</link>
+            <guid isPermaLink="false">7c8dbd9c-75ca-4a0c-84de-270cf42fb4f2</guid>
+            <pubDate>Mon, 23 May 2016 08:53:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[INCARE]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/427c853e-2a54-4e00-af09-71063313f4ef.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/incare-servicios-medicos/convenio-colaboracion-incare-alumni-uma/index.html</link>
             <guid isPermaLink="false">65fa073a-c72b-4563-9bea-177b75b3b960</guid>
             <pubDate>Thu, 19 May 2016 12:16:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuidados Intensivos: Atención Integral del Paciente Crítico]]></title>
-            <description><![CDATA[<article><h1>Cuidados Intensivos: Atención Integral del Paciente Crítico</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41d51ab0a03d7b5806e71b9524b44984a7730ab7.png"></article>]]></description>
-            <link>https://thegrid.ai/incare-servicios-medicos/cuidados-intensivos-atencion-integral-del-paciente-critico/index.html</link>
-            <guid isPermaLink="false">7c8dbd9c-75ca-4a0c-84de-270cf42fb4f2</guid>
-            <pubDate>Thu, 19 May 2016 12:16:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
