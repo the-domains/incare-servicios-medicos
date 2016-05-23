@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T10:40:21.708Z'
-dateModified: '2016-05-23T08:55:43.262Z'
+datePublished: '2016-05-23T10:44:01.261Z'
+dateModified: '2016-05-23T10:42:10.399Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-convenio-colaboracion-incare-alumni-uma.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: convenio-colaboracion-incare-alumni-uma/index.html
 _type: WebPage
 
