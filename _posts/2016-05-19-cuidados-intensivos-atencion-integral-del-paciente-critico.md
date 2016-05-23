@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: es
 keywords: []
 description: ''
-datePublished: '2016-05-23T10:40:38.135Z'
-dateModified: '2016-05-23T10:40:37.606Z'
+datePublished: '2016-05-23T11:11:06.771Z'
+dateModified: '2016-05-23T10:46:20.742Z'
 author:
   - name: ''
     url: ''
