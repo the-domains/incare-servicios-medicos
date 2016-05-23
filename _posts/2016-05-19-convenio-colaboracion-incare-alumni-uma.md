@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-23T08:55:34.418Z'
-dateModified: '2016-05-23T08:54:12.773Z'
+datePublished: '2016-05-23T10:40:21.708Z'
+dateModified: '2016-05-23T08:55:43.262Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-convenio-colaboracion-incare-alumni-uma.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: convenio-colaboracion-incare-alumni-uma/index.html
-_type: Article
+_type: WebPage
 
 ---
 ****
