@@ -4,8 +4,15 @@
         <description><![CDATA[INCARE Servicios Médicos]]></description>
         <link>https://thegrid.ai/incare-servicios-medicos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 12:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2016 07:41:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/incare-servicios-medicos/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[INCARE]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/427c853e-2a54-4e00-af09-71063313f4ef.jpg">]]></description>
+            <link>https://thegrid.ai/incare-servicios-medicos/incare/index.html</link>
+            <guid isPermaLink="false">7e9cbf33-9795-4a36-9d89-1a3c0962c203</guid>
+            <pubDate>Mon, 23 May 2016 07:41:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Convenio colaboración entre INCARE y Alumni Uma]]></title>
             <description><![CDATA[<p></p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/incare-servicios-medicos/cuidados-intensivos-atencion-integral-del-paciente-critico/index.html</link>
             <guid isPermaLink="false">7c8dbd9c-75ca-4a0c-84de-270cf42fb4f2</guid>
             <pubDate>Thu, 19 May 2016 12:16:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[INCARE]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/427c853e-2a54-4e00-af09-71063313f4ef.jpg">]]></description>
-            <link>https://thegrid.ai/incare-servicios-medicos/incare/index.html</link>
-            <guid isPermaLink="false">7e9cbf33-9795-4a36-9d89-1a3c0962c203</guid>
-            <pubDate>Thu, 19 May 2016 12:09:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
