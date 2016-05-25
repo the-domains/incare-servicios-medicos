@@ -4,7 +4,7 @@
         <description><![CDATA[INCARE Servicios Médicos]]></description>
         <link>https://thegrid.ai/incare-servicios-medicos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 08:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 16:28:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/incare-servicios-medicos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Incare]]></title>
@@ -12,6 +12,15 @@
             <link>https://thegrid.ai/incare-servicios-medicos/incare/index.html</link>
             <guid isPermaLink="false">7e9cbf33-9795-4a36-9d89-1a3c0962c203</guid>
             <pubDate>Wed, 25 May 2016 08:56:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Noticias]]></title>
+            <description><![CDATA[<p>Vithas Málaga publica un manual que ofrece las claves
+para el cuidado de los pacientes críticos
+</p>]]></description>
+            <link>https://thegrid.ai/incare-servicios-medicos/noticias/index.html</link>
+            <guid isPermaLink="false">5494b7d2-c298-43b4-bbc0-78a245aa89b6</guid>
+            <pubDate>Wed, 25 May 2016 16:28:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Convenio Colaboración]]></title>
