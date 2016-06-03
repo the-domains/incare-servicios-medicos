@@ -4,7 +4,7 @@
         <description><![CDATA[INCARE Servicios Médicos]]></description>
         <link>https://thegrid.ai/incare-servicios-medicos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 11:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 11:25:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/incare-servicios-medicos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INCARE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/incare-servicios-medicos/incare/index.html</link>
             <guid isPermaLink="false">7e9cbf33-9795-4a36-9d89-1a3c0962c203</guid>
             <pubDate>Wed, 01 Jun 2016 11:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NOTICIAS]]></title>
+            <description><![CDATA[<article><h1>NOTICIAS</h1><p>Vithas Málaga publica un manual que ofrece las claves para el cuidado de los pacientes críticos </p></article>]]></description>
+            <link>https://thegrid.ai/incare-servicios-medicos/noticias/index.html</link>
+            <guid isPermaLink="false">5494b7d2-c298-43b4-bbc0-78a245aa89b6</guid>
+            <pubDate>Fri, 03 Jun 2016 11:25:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[PUBLICACIONES Y MASTERS ]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/incare-servicios-medicos/servicios/index.html</link>
             <guid isPermaLink="false">8e1f22c0-449f-4f21-ba95-bfb2f7b8b4e0</guid>
             <pubDate>Fri, 03 Jun 2016 11:03:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Noticias]]></title>
-            <description><![CDATA[<p>Vithas Málaga publica un manual que ofrece las claves para el cuidado de los pacientes críticos </p>]]></description>
-            <link>https://thegrid.ai/incare-servicios-medicos/noticias/index.html</link>
-            <guid isPermaLink="false">5494b7d2-c298-43b4-bbc0-78a245aa89b6</guid>
-            <pubDate>Fri, 03 Jun 2016 11:01:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Colaboraciones]]></title>
