@@ -4,7 +4,7 @@
         <description><![CDATA[INCARE Servicios Médicos]]></description>
         <link>https://thegrid.ai/incare-servicios-medicos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 10:51:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2016 10:59:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/incare-servicios-medicos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INCARE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/incare-servicios-medicos/incare/index.html</link>
             <guid isPermaLink="false">7e9cbf33-9795-4a36-9d89-1a3c0962c203</guid>
             <pubDate>Wed, 01 Jun 2016 11:57:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SERVICIOS]]></title>
+            <description><![CDATA[<article><h1>SERVICIOS</h1><h2>En INCARE podrás encontrar entre otros, los siguientes servicios a tu disposición. </h2></article>]]></description>
+            <link>https://thegrid.ai/incare-servicios-medicos/servicios/index.html</link>
+            <guid isPermaLink="false">8e1f22c0-449f-4f21-ba95-bfb2f7b8b4e0</guid>
+            <pubDate>Fri, 03 Jun 2016 10:59:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cuidados Intensivos. Atención Integral del Paciente Crítico]]></title>
