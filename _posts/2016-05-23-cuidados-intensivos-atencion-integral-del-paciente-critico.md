@@ -15,8 +15,8 @@ keywords:
   - libro
   - herramientas
 description: 'PUBLICACIONES Y MASTERS '
-datePublished: '2016-06-03T10:51:25.831Z'
-dateModified: '2016-06-03T10:51:15.941Z'
+datePublished: '2016-06-03T11:07:12.077Z'
+dateModified: '2016-06-03T10:51:35.904Z'
 sourcePath: _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 related: []
 author:
