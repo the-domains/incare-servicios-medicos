@@ -15,8 +15,8 @@ keywords:
   - libro
   - herramientas
 description: 'La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo de Rojas Román. http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el médico que se enfrenta cada día a pacientes críticos. En el libro encontrará, un manual completo y sintético sobre la atención integral del paciente.'
-datePublished: '2016-06-03T10:29:32.434Z'
-dateModified: '2016-05-24T07:50:02.283Z'
+datePublished: '2016-06-03T10:32:36.443Z'
+dateModified: '2016-06-03T10:32:17.927Z'
 sourcePath: _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 related: []
 author:
