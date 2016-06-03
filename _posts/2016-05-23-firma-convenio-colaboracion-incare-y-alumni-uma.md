@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-05-23T16:04:18.430Z'
-sourcePath: _posts/2016-05-23-firma-convenio-colaboracion-incare-y-alumni-uma.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
-author: []
-dateModified: '2016-05-23T16:00:55.805Z'
-title: ''
-publisher: null
-description: NOTA DE PRENSA
-inLanguage: null
 inNav: true
+inLanguage: null
+keywords: []
+description: NOTA DE PRENSA
+datePublished: '2016-06-03T10:29:39.820Z'
+dateModified: '2016-05-24T07:50:27.713Z'
+sourcePath: _posts/2016-05-23-firma-convenio-colaboracion-incare-y-alumni-uma.md
+author: []
+title: ''
+authors: []
+publisher: null
 starred: false
 url: convenio-colaboracion/index.html
 _type: Article
