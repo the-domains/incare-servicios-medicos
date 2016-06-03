@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-05-23T16:03:57.592Z'
-sourcePath: _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
-isBasedOnUrl: 'https://www.youtube.com/watch?v=cty8iyOWXe0'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
 keywords:
   - duration
   - paciente
@@ -13,12 +14,15 @@ keywords:
   - dico
   - libro
   - herramientas
+description: 'La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo de Rojas Román. http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el médico que se enfrenta cada día a pacientes críticos. En el libro encontrará, un manual completo y sintético sobre la atención integral del paciente.'
+datePublished: '2016-06-03T10:29:32.434Z'
+dateModified: '2016-05-24T07:50:02.283Z'
+sourcePath: _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 related: []
 author:
   - name: Editorial Médica Panamericana
     url: 'https://www.youtube.com/user/empanamericana'
     avatar: {}
-dateModified: '2016-05-23T16:00:49.584Z'
 title: Cuidados Intensivos. Atención Integral del Paciente Crítico
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=cty8iyOWXe0&feature=applinks'
@@ -57,17 +61,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
+authors: []
 publisher:
-  url: 'https://www.youtube.com/'
   name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: www.youtube.com
-description: 'La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo de Rojas Román. http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el médico que se enfrenta cada día a pacientes críticos. En el libro encontrará, un manual completo y sintético sobre la atención integral del paciente.'
-inLanguage: en
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: cuidados-intensivos-atencion-integral-del-paciente-critico/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
