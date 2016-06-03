@@ -15,8 +15,8 @@ keywords:
   - libro
   - herramientas
 description: 'La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo de Rojas Román. http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el médico que se enfrenta cada día a pacientes críticos. En el libro encontrará, un manual completo y sintético sobre la atención integral del paciente.'
-datePublished: '2016-06-03T12:48:39.843Z'
-dateModified: '2016-06-03T12:47:17.438Z'
+datePublished: '2016-06-03T12:56:49.623Z'
+dateModified: '2016-06-03T12:56:48.491Z'
 sourcePath: _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 related: []
 author:
@@ -73,18 +73,14 @@ _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# PUBLICACIONES Y MASTERS ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d627d08-fb19-4fbd-8d07-b42d8239b5af.jpg)
+# PUBLICACIONES Y MASTERS 
 
-## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones. 
+## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebebbf7c-bd27-477c-a208-890b181ea10b.jpg)
 
-  
+## 
+
 * Cuidados Intensivos. Atención Integral del Paciente Crítico.
 
-  
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fcty8iyOWXe0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcty8iyOWXe0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fcty8iyOWXe0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-* Master Cuidados Intensivos. 
-
-[Next video ][0]
-
-[0]: https://www.youtube.com/watch?v=yswAKWje5xg
+* Master Cuidados Intensivos.
