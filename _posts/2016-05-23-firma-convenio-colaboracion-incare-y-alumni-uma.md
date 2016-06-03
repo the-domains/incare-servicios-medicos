@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: NOTA DE PRENSA
-datePublished: '2016-06-03T10:29:39.820Z'
-dateModified: '2016-05-24T07:50:27.713Z'
+datePublished: '2016-06-03T11:25:46.611Z'
+dateModified: '2016-06-03T10:29:49.512Z'
 sourcePath: _posts/2016-05-23-firma-convenio-colaboracion-incare-y-alumni-uma.md
 author: []
 title: ''
