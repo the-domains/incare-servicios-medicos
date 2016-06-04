@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-04T11:42:23.462Z'
-dateModified: '2016-06-04T11:41:23.817Z'
+datePublished: '2016-06-04T11:55:18.770Z'
+dateModified: '2016-06-04T11:49:27.986Z'
 title: 'Ahora es posible con INCARE! '
 author: []
 authors: []
@@ -26,4 +26,6 @@ Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar una 
 Contamos con numerosas ofertas y una de ellas puede ser tuya.   
 Te brindamos la posibilidad de obtener un puesto estable, mejorar tu idioma y aprender nuevas culturas. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
-Haz click aquí para descargar el folleto en pdf.
+[Haz click aquí para descargar el folleto en pdf.][0]
+
+[0]: https://drive.google.com/file/d/0B5EAlxcHzYBNNDdYYWVEbUtwa2s/view?usp=sharing
