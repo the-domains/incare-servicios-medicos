@@ -4,9 +4,11 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-04T12:08:09.125Z'
-dateModified: '2016-06-04T12:06:59.943Z'
+description: >-
+  Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
+  una entrevista. Te informamos y guiamos durante todo el proceso. 
+datePublished: '2016-06-05T11:00:35.905Z'
+dateModified: '2016-06-05T11:00:30.380Z'
 title: Ahora es posible con INCARE!
 author: []
 authors: []
