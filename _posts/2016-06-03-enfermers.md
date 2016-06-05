@@ -4,12 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: >-
-  Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
-  una entrevista. Te informamos y guiamos durante todo el proceso. 
-datePublished: '2016-06-05T11:00:35.905Z'
-dateModified: '2016-06-05T11:00:30.380Z'
-title: Ahora es posible con INCARE!
+description: ''
+datePublished: '2016-06-05T11:02:09.599Z'
+dateModified: '2016-06-05T11:00:42.677Z'
+title: '¿Eres enfermer@ y te gustaría trabajar en el extranjero? '
 author: []
 authors: []
 publisher: null
