@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-06T10:20:25.862Z'
-dateModified: '2016-06-06T10:20:18.632Z'
-title: 'FORMACIÓN '
+description: 'Las modalidades disponibles son:'
+datePublished: '2016-06-07T11:33:58.689Z'
+dateModified: '2016-06-07T11:33:58.209Z'
+title: FORMACIÓN
 author: []
 authors: []
 publisher: null
