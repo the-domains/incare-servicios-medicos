@@ -4,15 +4,17 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-05T11:02:09.599Z'
-dateModified: '2016-06-05T11:00:42.677Z'
+description: >-
+  Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
+  una entrevista. Te informamos y guiamos durante todo el proceso. 
+datePublished: '2016-06-09T10:59:08.718Z'
+dateModified: '2016-06-09T10:58:47.728Z'
 title: '¿Eres enfermer@ y te gustaría trabajar en el extranjero? '
 author: []
+sourcePath: _posts/2016-06-03-enfermers.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-03-enfermers.md
 url: enfermers/index.html
 _type: Article
 
@@ -20,11 +22,12 @@ _type: Article
 # ¿Eres enfermer@ y te gustaría trabajar en el extranjero? 
 
 ## Ahora es posible con INCARE!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
 Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar una entrevista. Te informamos y guiamos durante todo el proceso. 
 
 Contamos con numerosas ofertas y una de ellas puede ser tuya.   
-Te brindamos la posibilidad de obtener un puesto estable, mejorar tu idioma y aprender nuevas culturas. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
+Te brindamos la posibilidad de obtener un puesto estable, mejorar tu idioma y aprender nuevas culturas. 
 
 [Haz click aquí para descargar el folleto en pdf][0]
 
