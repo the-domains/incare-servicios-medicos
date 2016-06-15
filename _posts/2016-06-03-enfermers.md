@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
   una entrevista. Te informamos y guiamos durante todo el proceso. 
-datePublished: '2016-06-15T11:24:15.592Z'
-dateModified: '2016-06-15T11:24:08.970Z'
+datePublished: '2016-06-15T11:25:40.473Z'
+dateModified: '2016-06-15T11:24:21.609Z'
 title: '¿Eres enfermer@ y te gustaría trabajar en el extranjero? '
 author: []
 sourcePath: _posts/2016-06-03-enfermers.md
