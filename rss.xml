@@ -4,7 +4,7 @@
         <description><![CDATA[INCARE Servicios Médicos]]></description>
         <link>https://thegrid.ai/incare-servicios-medicos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 11:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2016 11:35:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/incare-servicios-medicos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[INCARE]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/incare-servicios-medicos/incare/index.html</link>
             <guid isPermaLink="false">7e9cbf33-9795-4a36-9d89-1a3c0962c203</guid>
             <pubDate>Thu, 09 Jun 2016 10:56:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ENFERMER@S]]></title>
+            <description><![CDATA[<p>Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar una entrevista. Te informamos y guiamos durante todo el proceso.</p>]]></description>
+            <link>https://thegrid.ai/incare-servicios-medicos/enfermers/index.html</link>
+            <guid isPermaLink="false">d47f18d7-3433-4aa5-8fe2-d5ed67624dd0</guid>
+            <pubDate>Wed, 15 Jun 2016 11:35:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[¿Eres enfermer@ y te gustaría trabajar en el extranjero? ]]></title>
