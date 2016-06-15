@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
   una entrevista. Te informamos y guiamos durante todo el proceso. 
-datePublished: '2016-06-15T11:42:29.412Z'
-dateModified: '2016-06-15T11:42:07.443Z'
+datePublished: '2016-06-15T11:46:05.601Z'
+dateModified: '2016-06-15T11:42:30.783Z'
 title: Ahora es posible con INCARE!
 author: []
 sourcePath: _posts/2016-06-03-enfermers.md
