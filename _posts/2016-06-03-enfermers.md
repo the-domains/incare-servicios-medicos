@@ -1,35 +1,35 @@
 ---
+datePublished: '2016-06-15T12:00:07.775Z'
+sourcePath: _posts/2016-06-03-enfermers.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-06-15T11:57:52.679Z'
+title: ENFERMR@S
+publisher: null
 description: >-
   Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
-  una entrevista. Te informamos y guiamos durante todo el proceso. 
-datePublished: '2016-06-15T11:46:05.601Z'
-dateModified: '2016-06-15T11:42:30.783Z'
-title: Ahora es posible con INCARE!
-author: []
-sourcePath: _posts/2016-06-03-enfermers.md
-authors: []
-publisher: null
+  una entrevista. Te informamos y guiamos durante todo el proceso.
+inLanguage: null
+inNav: true
 starred: false
 url: enfermers/index.html
 _type: Article
 
 ---
 # ENFERMR@S
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
-## ¿Eres enfermer@ y te gustaría trabajar en el extranjero? 
+## ¿Eres enfermer@ y te gustaría trabajar en el extranjero?
 
 ## Ahora es posible con INCARE!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
-Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar una entrevista. Te informamos y guiamos durante todo el proceso. 
+Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar una entrevista. Te informamos y guiamos durante todo el proceso.
 
 Contamos con numerosas ofertas y una de ellas puede ser tuya.   
-Te brindamos la posibilidad de obtener un puesto estable, mejorar tu idioma y aprender nuevas culturas. 
+Te brindamos la posibilidad de obtener un puesto estable, mejorar tu idioma y aprender nuevas culturas.
 
 [Haz click aquí para descargar el folleto en pdf][0]
 
