@@ -1,8 +1,10 @@
 ---
+datePublished: '2016-06-15T11:19:43.185Z'
+sourcePath: >-
+  _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: true
-inLanguage: en
 keywords:
   - duration
   - paciente
@@ -14,17 +16,13 @@ keywords:
   - dico
   - libro
   - herramientas
-description: ''
-datePublished: '2016-06-15T11:12:15.227Z'
-dateModified: '2016-06-15T11:11:53.465Z'
-sourcePath: >-
-  _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 related: []
 author:
   - name: Editorial Médica Panamericana
     url: 'https://www.youtube.com/user/empanamericana'
     avatar: {}
-title: 'PUBLICACIONES Y MASTERS '
+dateModified: '2016-06-15T11:18:52.721Z'
+title: PUBLICACIONES Y MASTERS
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=cty8iyOWXe0&feature=applinks'
     type: ios
@@ -62,25 +60,36 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: >-
+  La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo
+  de Rojas Román.
+  http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html
+  La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el
+  médico que se enfrenta cada día a pacientes críticos. En el libro encontrará,
+  un manual completo y sintético sobre la atención integral del paciente.
+inLanguage: en
+inNav: true
 starred: false
 url: cuidados-intensivos-atencion-integral-del-paciente-critico/index.html
 _context: 'http://schema.org'
 _type: VideoObject
 
 ---
-# PUBLICACIONES Y MASTERS 
+# PUBLICACIONES Y MASTERS
 
-## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebebbf7c-bd27-477c-a208-890b181ea10b.jpg)
-
-  
-* Cuidados Intensivos. Atención Integral del Paciente Crítico.
+## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones.
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fcty8iyOWXe0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcty8iyOWXe0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fcty8iyOWXe0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7e35f725ef41f12243bb877f2c477deb2eb14e9.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f91f5e2df3ff5320b5a65fe49ea1030d/passthrough.jpg?height=422&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Ff7e35f725ef41f12243bb877f2c477deb2eb14e9.jpg&width=750)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebebbf7c-bd27-477c-a208-890b181ea10b.jpg)
+
+* Cuidados Intensivos. Atención Integral del Paciente Crítico.
 
 * Master Cuidados Intensivos.
