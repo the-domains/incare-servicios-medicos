@@ -14,15 +14,9 @@ keywords:
   - dico
   - libro
   - herramientas
-description: >-
-  La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo
-  de Rojas Román.
-  http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html
-  La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el
-  médico que se enfrenta cada día a pacientes críticos. En el libro encontrará,
-  un manual completo y sintético sobre la atención integral del paciente.
-datePublished: '2016-06-15T11:45:02.976Z'
-dateModified: '2016-06-15T11:43:54.324Z'
+description: ''
+datePublished: '2016-06-22T09:30:23.002Z'
+dateModified: '2016-06-22T09:29:38.689Z'
 sourcePath: >-
   _posts/2016-05-23-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 related: []
@@ -83,12 +77,19 @@ _type: VideoObject
 # PUBLICACIONES Y MASTERS
 
 ## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebebbf7c-bd27-477c-a208-890b181ea10b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d25b60b-4772-462b-a98e-01114872f721.jpg)
 
 * [Cuidados Intensivos. Atención Integral del Paciente Crítico][0].
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fcty8iyOWXe0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcty8iyOWXe0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fcty8iyOWXe0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
-* Master Cuidados Intensivos.
+* Master en Cuidados Intensivos (2 años).
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1112a5e4-3e2f-49ec-8826-47a5b529de36.jpg)
+
+Editorial Médica Panamericana: Libros de medicina
+
+Máster en Cuidados Intensivos (2 años) Este Máster tiene como principales objetivos actualizar y reforzar los conocimientos del profesional sobre cómo enfocar al paciente ante el fracaso de órganos, así como el manejo de las principales patologías que llegan a Cuidados Intensivos.
+
+http://www.medicapanamericana.com/videos/Formaci%C3%B3n%20Continuada/video-MasterCuidadosIntensivos.mp4
 
 [0]: http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html
