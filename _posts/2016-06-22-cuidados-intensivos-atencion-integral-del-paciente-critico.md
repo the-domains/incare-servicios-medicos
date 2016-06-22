@@ -5,23 +5,24 @@ inNav: true
 inLanguage: null
 keywords: []
 description: >-
-  Rocío Aragonés Manzanares, Juan Pablo de Rojas Román Cuidados Intensivos
-  Atención Integral del Paciente Crítico Es una herramienta de trabajo vital
-  para el médico que se enfrenta cada día a pacientes críticos. En el libro
-  encontrará, un manual completo y sintético sobre la atención integral del
-  paciente.
-datePublished: '2016-06-22T09:50:47.161Z'
-dateModified: '2016-06-22T09:49:59.369Z'
-title: 'Cuidados Intensivos: Atención Integral del Paciente Crítico'
+  La Doctora Rocío Aragonés expone el libro que ha dirigido junto a Juan Pablo
+  de Rojas Román.
+  http://www.medicapanamericana.com/Libros/Libro/5377/Cuidados-Intensivos.html
+  La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el
+  médico que se enfrenta cada día a pacientes críticos. En el libro encontrará,
+  un manual completo y sintético sobre la atención integral del paciente.
+datePublished: '2016-06-22T09:53:21.504Z'
+dateModified: '2016-06-22T09:52:52.592Z'
+title: Cuidados Intensivos. Atención Integral del Paciente Crítico
 author:
-  - name: 'Editorial Médica Panamericana: Libros de medicina'
-    url: null
+  - name: Editorial Médica Panamericana
+    url: 'https://www.youtube.com/user/empanamericana'
     avatar: {}
+sourcePath: >-
+  _posts/2016-06-22-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-06-22-cuidados-intensivos-atencion-integral-del-paciente-critico.md
 url: cuidados-intensivos-atencion-integral-del-paciente-critico/index.html
 _type: Article
 
@@ -29,8 +30,7 @@ _type: Article
 # Publicaciones Y Masters
 
 ## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones.
-
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41d51ab0a03d7b5806e71b9524b44984a7730ab7.png" /><h1>Cuidados Intensivos: Atención Integral del Paciente Crítico</h1><p>Rocío Aragonés Manzanares, Juan Pablo de Rojas Román Cuidados Intensivos Atención Integral del Paciente Crítico Es una herramienta de trabajo vital para el médico que se enfrenta cada día a pacientes críticos. En el libro encontrará, un manual completo y sintético sobre la atención integral del paciente.</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42e02fb1-1380-46b2-be11-0865720ad7f8.jpg)
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fcty8iyOWXe0%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dcty8iyOWXe0&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fcty8iyOWXe0%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
