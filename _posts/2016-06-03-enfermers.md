@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-06-22T10:09:55.706Z'
-sourcePath: _posts/2016-06-03-enfermers.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
-author: []
-dateModified: '2016-06-15T12:03:35.663Z'
-title: ENFERMR@S
-publisher: null
 description: >-
   Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
   una entrevista. Te informamos y guiamos durante todo el proceso.
-inLanguage: null
-inNav: true
+datePublished: '2016-06-22T10:13:44.948Z'
+dateModified: '2016-06-22T10:10:04.377Z'
+sourcePath: _posts/2016-06-03-enfermers.md
+author: []
+title: ENFERMR@S
+authors: []
+publisher: null
 starred: false
 url: enfermrs/index.html
 _type: Article
