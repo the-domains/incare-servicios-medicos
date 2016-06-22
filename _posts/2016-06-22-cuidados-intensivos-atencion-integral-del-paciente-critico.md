@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-06-22T10:14:25.636Z'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-06-22T10:17:22.488Z'
+dateModified: '2016-06-22T10:14:31.576Z'
+title: Publicaciones Y Masters
+author: []
 sourcePath: >-
   _posts/2016-06-22-cuidados-intensivos-atencion-integral-del-paciente-critico.md
-inFeed: true
 authors: []
-hasPage: true
-keywords: []
-author: []
-dateModified: '2016-06-22T10:13:02.093Z'
-title: Publicaciones Y Masters
 publisher: null
-description: ''
-inLanguage: null
-inNav: true
 starred: false
 url: cuidados-intensivos-atencion-integral-del-paciente-critico/index.html
 _type: Article
