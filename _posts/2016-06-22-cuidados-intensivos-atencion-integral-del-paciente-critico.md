@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-22T10:43:07.180Z'
-dateModified: '2016-06-22T10:41:57.116Z'
-title: Publicaciones Y Masters
+datePublished: '2016-06-22T10:44:46.664Z'
+dateModified: '2016-06-22T10:44:38.942Z'
+title: PUBLICACIONES Y MASTERS
 author: []
 sourcePath: >-
   _posts/2016-06-22-cuidados-intensivos-atencion-integral-del-paciente-critico.md
@@ -18,7 +18,7 @@ url: cuidados-intensivos-atencion-integral-del-paciente-critico/index.html
 _type: Article
 
 ---
-# Publicaciones Y Masters
+# PUBLICACIONES Y MASTERS
 
 ## Aquí encontrarás información y videos sobre los masters que ofrecemos, así como un enlace directo a nuestras publicaciones.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/37bc4d5a-bfc9-4e29-9e4f-64559e6f3bae.jpg)
