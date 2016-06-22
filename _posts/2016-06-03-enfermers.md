@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-15T12:00:27.761Z'
+datePublished: '2016-06-22T10:09:55.706Z'
 sourcePath: _posts/2016-06-03-enfermers.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-15T12:00:10.532Z'
+dateModified: '2016-06-15T12:03:35.663Z'
 title: ENFERMR@S
 publisher: null
 description: >-
@@ -20,11 +20,11 @@ _type: Article
 
 ---
 # ENFERMR@S
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
-## ¿Eres enfermer@ y te gustaría trabajar en el extranjero?
+# ¿Eres enfermer@ y te gustaría trabajar en el extranjero?
 
 ## Ahora es posible con INCARE!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
 Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar una entrevista. Te informamos y guiamos durante todo el proceso.
 
