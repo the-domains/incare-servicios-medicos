@@ -7,11 +7,11 @@ keywords: []
 description: >-
   Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
   una entrevista. Te informamos y guiamos durante todo el proceso.
-datePublished: '2016-06-22T11:36:34.479Z'
-dateModified: '2016-06-22T11:36:26.036Z'
+datePublished: '2016-06-22T11:37:42.358Z'
+dateModified: '2016-06-22T11:37:05.353Z'
 sourcePath: _posts/2016-06-03-enfermers.md
 author: []
-title: ENFERMR@S
+title: ENFERMER@S
 authors: []
 publisher: null
 starred: false
@@ -19,7 +19,7 @@ url: enfermrs/index.html
 _type: Article
 
 ---
-# ENFERMR@S
+# ENFERMER@S
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/62ce5b9b-e519-433f-b089-6f06b5b3072d.jpg)
 
 # ¿Eres enfermer@ y te gustaría trabajar en el extranjero?
