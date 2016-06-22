@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Descarga nuestro folleto y contacta con nosotros ahora mismo para concertar
   una entrevista. Te informamos y guiamos durante todo el proceso.
-datePublished: '2016-06-22T11:36:17.316Z'
-dateModified: '2016-06-22T10:51:03.489Z'
+datePublished: '2016-06-22T11:36:34.479Z'
+dateModified: '2016-06-22T11:36:26.036Z'
 sourcePath: _posts/2016-06-03-enfermers.md
 author: []
 title: ENFERMR@S
