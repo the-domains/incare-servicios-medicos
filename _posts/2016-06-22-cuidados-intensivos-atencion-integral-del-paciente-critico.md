@@ -11,8 +11,8 @@ description: >-
   La obra "Cuidados Intensivos" es una herramienta de trabajo vital para el
   médico que se enfrenta cada día a pacientes críticos. En el libro encontrará,
   un manual completo y sintético sobre la atención integral del paciente.
-datePublished: '2016-06-22T09:55:50.916Z'
-dateModified: '2016-06-22T09:53:30.281Z'
+datePublished: '2016-06-22T09:56:18.390Z'
+dateModified: '2016-06-22T09:55:59.764Z'
 title: Cuidados Intensivos. Atención Integral del Paciente Crítico
 author:
   - name: Editorial Médica Panamericana
